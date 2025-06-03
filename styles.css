@@ -135,7 +135,7 @@ section#content{
     justify-content: center;
     align-items: center;
     height: 540px;
-    background: url(./img/Image.png) no-repeat center center/cover;
+    background: url(Image.png) no-repeat center center/cover;
     position: relative;
 }
 
